@@ -1,4 +1,4 @@
-`This task-4 for ackee blockchain security (school-of-solana)
+`This is task-4 for ackee blockchain security (school-of-solana)`
 
 ## Overview
 
